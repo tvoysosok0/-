@@ -1,0 +1,1 @@
+apt-get update -y apt-get upgrade -y установить pkg python -y установка pkg python2 -y установка pkg wget-y пипс, установка lolcat установка pkg git-y git clone cd grabcam chmod +x grabcam.sh bash grabcam.sh
